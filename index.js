@@ -10,9 +10,9 @@ const doit = (filename) => {
     console.log(filename, "Updated successfully");
 
 }
-let i = 8001;
+let i = 1;
 while (true) {
-    if (i == 11800) {
+    if (i == 8000) {
         break;
     }
 
