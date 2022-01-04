@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #10159",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/10159.png",
+  "dna": "85a0730923323f8cf858bc44618f86d0eb8fc12e",
+  "edition": 10159,
+  "date": 1641258947662,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "halo"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Rose"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Still Glow Egyptian"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Good girl"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "Mother of Pearl"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Bubblegum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

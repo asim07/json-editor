@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #8180",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/8180.png",
+  "dna": "1d860b1152ca08905d4f1ef6ceca1b07c6f0dc44",
+  "edition": 8180,
+  "date": 1641257065661,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "open sky"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Violet marble"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "Crocodile Necklace"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Wide open Normal"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Audrey Hepburn"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Still Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

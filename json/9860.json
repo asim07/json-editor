@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #9860",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/9860.png",
+  "dna": "c687faf3474be9334b8d80fffe1d09340ee1029a",
+  "edition": 9860,
+  "date": 1641258684968,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Portobello Road"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Violet orange gradient"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Still Normal"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Drama Queen"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Wide smile Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

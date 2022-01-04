@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #8929",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/8929.png",
+  "dna": "fa6006eba95345c8e581d8bdcbe4bec285fceea1",
+  "edition": 8929,
+  "date": 1641257785253,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "star wars"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Dark violet gradient"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "Geshia gown"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Angry Normal Egyptian"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Harley Quinn"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Bubblegum"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

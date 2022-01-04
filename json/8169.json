@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #8169",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/8169.png",
+  "dna": "4c75cfc4b150998ad1d75e3713e2316dd00ef57c",
+  "edition": 8169,
+  "date": 1641257056612,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "London Skyline"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Dark pink"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "Van Cleef"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Angry Normal"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Rain hat"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "Van Cleef"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Wide smile Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

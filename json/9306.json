@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #9306",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/9306.png",
+  "dna": "91af6080890a0a8b46868a29db279053e1966711",
+  "edition": 9306,
+  "date": 1641258156318,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Japanese Moon"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Dark violet marble"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "Abaya"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "Green makeup"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Still black"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Harley Quinn"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "Female Aviators"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Female Face mask black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #8851",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/8851.png",
+  "dna": "60df0e56fc9396b639070a8eabcd0834da54ec39",
+  "edition": 8851,
+  "date": 1641257698937,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "studded gold"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Space marble"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female closed"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Harley Quinn"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Smile Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

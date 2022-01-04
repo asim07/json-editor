@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #8350",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/8350.png",
+  "dna": "664e531fda93ae3509e0ea927e01a1c880952ebd",
+  "edition": 8350,
+  "date": 1641257222192,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Portobello Road"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Violet marble"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "Blue Makeup"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Still Glow Egyptian"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Harley Quinn"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Wide smile Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

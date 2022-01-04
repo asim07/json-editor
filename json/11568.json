@@ -1,0 +1,43 @@
+{
+  "name": "Antara Movie NFT #11568",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/11568.png",
+  "dna": "f20e193051cebbf08800d576f5d5704892c2231d",
+  "edition": 11568,
+  "date": 1641264861034,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "studded blue"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Rose marble"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "Abaya"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Geisha hair"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Geisha"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Angry Glow"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

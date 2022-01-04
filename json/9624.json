@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #9624",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/9624.png",
+  "dna": "511f9a8986a6d9d0f6944f516aef19559583a721",
+  "edition": 9624,
+  "date": 1641258456867,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "camels in color"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Red"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Wide open Normal"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Im a Gurl"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "Fan"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Female Face mask black"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

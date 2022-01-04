@@ -1,0 +1,51 @@
+{
+  "name": "Antara Movie NFT #10191",
+  "description": "The Antara Movie NFT",
+  "image": "ipfs://NewUriToReplace/10191.png",
+  "dna": "22cc38a57e2655a8afb3b215c9e5c8163aae074d",
+  "edition": 10191,
+  "date": 1641258982741,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "star wars"
+    },
+    {
+      "trait_type": "Female Fur",
+      "value": "Female Rose"
+    },
+    {
+      "trait_type": "Female Clothes",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Make-up",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Eyes",
+      "value": "Female Still black"
+    },
+    {
+      "trait_type": "Female Head",
+      "value": "Princess Leia hair"
+    },
+    {
+      "trait_type": "Female Accessories",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Earring",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Female Glasses",
+      "value": "Flattop sunglasses"
+    },
+    {
+      "trait_type": "Female Mouth",
+      "value": "Wide smile Lipstick"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
